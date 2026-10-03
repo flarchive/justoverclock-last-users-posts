@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of justoverclock/last-users-posts.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/last-users-posts) or the [upstream repository](https://github.com/justoverclockl/last-users-posts).
 
-**0** versions archived · Latest: [`0.3.0`](https://github.com/flarchive/justoverclock-last-users-posts/tree/archive/v0.3.0) · License: `MIT` · Flarum: `^1.0.0`
+**21** versions archived · Latest: [`0.3.0`](https://github.com/flarchive/justoverclock-last-users-posts/tree/archive/v0.3.0) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-09-02 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-last-users-posts/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-09-03 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-last-users-posts/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-09-04 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-last-users-posts/tree/archive/v0.1.2) |
+| `0.1.3` | 2021-09-04 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-last-users-posts/tree/archive/v0.1.3) |
+| `0.1.4` | 2021-09-07 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-last-users-posts/tree/archive/v0.1.4) |
+| `0.1.5` | 2021-09-16 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-last-users-posts/tree/archive/v0.1.5) |
+| `0.1.6` | 2021-09-24 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-last-users-posts/tree/archive/v0.1.6) |
+| `0.1.7` | 2021-09-24 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-last-users-posts/tree/archive/v0.1.7) |
+| `0.1.8` | 2021-09-24 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-last-users-posts/tree/archive/v0.1.8) |
+| `0.1.9` | 2021-09-24 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-last-users-posts/tree/archive/v0.1.9) |
+
+[View all 21 versions](https://github.com/flarchive/justoverclock-last-users-posts/tags)
 
 Catalog entry: [packages/justoverclock-last-users-posts.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-last-users-posts.json)
 
